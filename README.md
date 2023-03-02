@@ -1,4 +1,4 @@
-In acest proiectat am implementat un model ce calculeza ce sanse are o persoana sa obtina un imprumut pe baza anumitori criterii, regasite in fiserul  csv.
+In acest proiectat am implementat un model ce calculeaza ce sanse are o persoana sa obtina un imprumut pe baza anumitori criterii, regasite in fiserul .csv.
 
 In primul rand, am verificat daca exista valori lipsa in dataset. In cazul in care sunt prea multe valori lipsa(mai mult de 50% dintre exemple), nu voi lua in considerare coloana respectiva.
 Daca sunt mai putine, le voi inlocui cu media coloanei, in cazul datelor numerice sau cu cel mai intalnit element, in cazul datelor catergorice.
